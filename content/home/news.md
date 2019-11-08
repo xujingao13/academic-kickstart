@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Projects"
+title = "News"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "news"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -20,29 +20,17 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-  
-  [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
-  
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -80,4 +68,14 @@ subtitle = ""
 </head> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
-<i class="fa fa-weixin"></i> ddd
+<i class="fa fa-bell"></i> 2019/08 Our paper **iVR** got accepted by ACM IMWUT(Ubicomp) 2019.
+
+<i class="fa fa-bell"></i> 2019/07 Extended version of **ViViPlus** (MASS'18) got conditionally accepted by IEEE/ACM TOSN.
+
+<i class="fa fa-bell"></i> 2018/11 Our paper **Pair-Navi** was accepted by IEEE INFOCOM 2019.
+
+<i class="fa fa-bell"></i> 2018/08 Our paper **ViViPlus** was accepted by IEEE MASS 2019.
+
+<i class="fa fa-bell"></i> 2017/06 I got **Outstanding Graduate of Tsinghua University** and **Outstanding Graduate of Beijing** awards
+
+<i class="fa fa-bell"></i> 2017/06 Our paper **ViVi** was accepted by ACM IMWUT(Ubicomp) 2017.

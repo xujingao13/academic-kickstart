@@ -1,18 +1,18 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -31,6 +31,7 @@ subtitle = ""
     exclude_featured = false
   
 [design]
+  column = 2
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
@@ -43,7 +44,7 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+    
   # Background color.
   # color = "navy"
   
@@ -57,7 +58,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -65,3 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
