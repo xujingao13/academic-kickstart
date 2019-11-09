@@ -32,10 +32,10 @@ education:
     year: 2022(expected)
   - course: B.E. in Software Engineering
     institution: School of Software, Tsinghua University
-    year: 2013
+    year: 2017
   - course: B.S. in Economics and Management
     institution: School of Economics and Management, Tsinghua University
-    year: 2014
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
