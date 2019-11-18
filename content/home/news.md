@@ -76,6 +76,6 @@ subtitle = ""
 
 <i class="fa fa-bell"></i> 2018/08 Our paper **ViViPlus** was accepted by IEEE MASS 2019.
 
-<i class="fa fa-bell"></i> 2017/06 I got **Outstanding Graduate of Tsinghua University** and **Outstanding Graduate of Beijing** awards
+<i class="fa fa-bell"></i> 2017/06 I got **Outstanding Graduate of Tsinghua University** and **Outstanding Graduate of Beijing** awards.
 
 <i class="fa fa-bell"></i> 2017/06 Our paper **ViVi** was accepted by ACM IMWUT(Ubicomp) 2017.

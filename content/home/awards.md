@@ -74,6 +74,6 @@ subtitle = ""
 
 <i class="fa fa-trophy"></i> Outstanding Graduate Thesis of Tsinghua University, 2017.
 
-<i class="fa fa-trophy"></i> Future Scholarship Award of Tsinghua University, 2017
+<i class="fa fa-trophy"></i> Future Scholarship Award of Tsinghua University, 2017.
 
-<i class="fa fa-trophy"></i> National Scholarship, 2016
+<i class="fa fa-trophy"></i> National Scholarship, 2016.
