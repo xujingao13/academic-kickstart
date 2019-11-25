@@ -14,8 +14,9 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
+- name: Institute of Trustworthy Network and System
+  url: "http://tns.thss.tsinghua.edu.cn/"
 - name: School of Software, Tsinghua University
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

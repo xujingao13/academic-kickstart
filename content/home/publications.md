@@ -70,20 +70,21 @@ subtitle = ""
 
 ## Conference
 1. [<span class="booktitle">ACM UbiComp'19</span>] **Jingao Xu**, Hengjie Chen, Kun Qian, Erqun Dong, Min Sun, Chenshu Wu, Li Zhang, Zheng Yang, "<u>iVR: Integrated Vision and Radio Localization with Zero Human Effort</u>", PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, London, UK, Sep 11 - Sep 13, 2019.
-[[<i class="fa fa-file-pdf-o"></i>PDF](papers/ubicomp19_ivr.pdf)]
-[[<i class="fa fa-file-powerpoint-o"></i>Slides](slides/iVR.pptx)]
+<a class="btn btn-success btn-sm" href="papers/ubicomp19_ivr.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
+<a class="btn btn-info btn-sm" href="slides/iVR.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
 2. [<span class="booktitle">IEEE INFOCOM'19</span>] Erqun Dong*, **Jingao Xu\***, Chenshu Wu, Yunhao Liu, Zheng Yang, "<u>Pair-Navi: Peer-to-Peer Indoor Navigation with Mobile Visual SLAM</u>", IEEE Conference on Computer Communications, Paris, France, 29 April-2 May, 2019. (*co-primary author, <span class="highlight">Best-in-Session Presentation Award, 1 out of 4</span>)
-[[<i class="fa fa-file-pdf-o"></i>PDF](papers/infocom19_pair.pdf)]
-[[<i class="fa fa-file-powerpoint-o"></i>Slides](slides/Pair-navi.pptx)]
+<a class="btn btn-success btn-sm" href="papers/infocom19_pair.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
+<a class="btn btn-info btn-sm" href="slides/Pair-navi.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
 3. [<span class="booktitle">IEEE MASS'18</span>] **Jingao Xu**, Zheng Yang, Hengjie Chen, Yunhao Liu, Xiancun Zhou, Jianbo Li, Nicholas Lane, "<u>Embracing Spatial Awareness For Reliable WiFi-based Indoor Location Systems</u>", IEEE International Conference on Mobile Ad-hoc and Sensor Systems, Chengdu, China, Oct 8 - Oct 11, 2018.
-[[<i class="fa fa-file-pdf-o"></i>PDF](papers/mass18_viviplus.pdf)]
-[[<i class="fa fa-file-powerpoint-o"></i>Slides](slides/ViViPlus.pptx)]
-[[<i class="fa fa fa-video-camera"></i>Demo](slides/ViViPlus.pptx)]
+<a class="btn btn-success btn-sm" href="papers/mass18_viviplus.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
+<a class="btn btn-info btn-sm" href="slides/ViViPlus.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
+<a class="btn btn-danger btn-sm" href="slides/ViViPlus.pptx"><i class="fa fa fa-video-camera"></i> Demo</a>
 4. [<span class="booktitle">ACM UbiComp'17</span>] Chenshu Wu, **Jingao Xu**, Zheng Yang, Nicholas D. Lane, Zuwei Yin, "<u>Gain Without Pain: Accurate WiFi-based Localization with Fingerprint Spatial Gradient</u>", PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol.1, no.2, pp.29:1-29:19, 2017, Maui, USA, Sep 11 - Sep 15, 2017.
-[[<i class="fa fa-file-pdf-o"></i>PDF](papers/ubicomp17_vivi.pdf)]
-[[<i class="fa fa-file-powerpoint-o"></i>Slides](slides/ViVi.pptx)]
+<a class="btn btn-success btn-sm" href="papers/ubicomp17_vivi.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
+<a class="btn btn-info btn-sm" href="slides/ViVi.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
+
 
 ## Journal
 1. [<span class="booktitle">ACM TOSN</span>] **Jingao Xu**, Zheng Yang, Hengjie Chen, Erqun Dong, Chenshu Wu, Jianbo Li, Nicholas Lane, "<u>Wireless Indoor Localization with Robust Fingerprints</u>", ACM Transactions on Sensor Networks.
-[[<i class="fa fa-file-pdf-o"></i>PDF](papers/mass18_viviplus.pdf)]
-[[<i class="fa fa-file-powerpoint-o"></i>Slides](slides/ViViPlus.pptx)]
+<a class="btn btn-success btn-sm" href="papers/mass18_viviplus.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
+<a class="btn btn-info btn-sm" href="slides/ViViPlus.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
