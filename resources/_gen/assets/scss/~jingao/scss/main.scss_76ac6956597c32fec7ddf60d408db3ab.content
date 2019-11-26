@@ -9021,3 +9021,6 @@ div.mermaid {
   color: #B60000;
   font-weight: bold;
   font-style: italic; }
+
+.inline {
+  color: #FFFFFF; }

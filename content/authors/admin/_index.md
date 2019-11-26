@@ -72,12 +72,6 @@ user_groups:
 - Visitors
 ---
 
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
-</head> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
-
 Jingao Xu is currently a Ph.D. candidate at the School of Software, Tsinghua University, under supervision of Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) and [Yunhao Liu](http://www.cse.msu.edu/~liuyunha/) since 2017.
 Prior to that, he received his B.E. degree in Software Engineering in 2017 from the School of Software at Tsinghua University.
 
