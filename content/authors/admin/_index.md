@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jingao Xu
+name: Jingao Xu | 徐京傲
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
