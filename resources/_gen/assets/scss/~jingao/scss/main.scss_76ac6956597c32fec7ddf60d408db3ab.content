@@ -9024,3 +9024,29 @@ div.mermaid {
 
 .inline {
   color: #FFFFFF; }
+
+#footer {
+  /*width: 916px;*/
+  font-family: 'century gothic' sans-serif;
+  font-size: 90%;
+  height: 28px;
+  padding: 20px 0 5px 0;
+  text-align: center;
+  background: transparent;
+  color: #111;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; }
+
+.bottom {
+  padding-left: 5%;
+  padding-right: 5%; }
+
+.bottomimg {
+  margin: 10px; }
+
+.bottomimg > a > img {
+  height: 100px;
+  width: auto; }
