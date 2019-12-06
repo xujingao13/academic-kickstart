@@ -63,6 +63,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<i class="fa fa-bell"></i> 2019/12 Our paper **edgeSLAM** got accepted by IEEE INFOCOM 2020.
+
 <i class="fa fa-bell"></i> 2019/08 Our paper **iVR** got accepted by ACM IMWUT(Ubicomp) 2019.
 
 <i class="fa fa-bell"></i> 2019/07 Extended version of **ViViPlus** (MASS'18) got conditionally accepted by IEEE/ACM TOSN.
