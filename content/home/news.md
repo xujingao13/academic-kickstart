@@ -23,7 +23,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -76,3 +76,5 @@ subtitle = ""
 <i class="fa fa-bell"></i> 2017/06 I got **Outstanding Graduate of Tsinghua University** and **Outstanding Graduate of Beijing** awards.
 
 <i class="fa fa-bell"></i> 2017/06 Our paper **ViVi** was accepted by ACM IMWUT(Ubicomp) 2017.
+
+<i class="fas fa-hand-point-right"></i><a href="./news">  More news...</a>
