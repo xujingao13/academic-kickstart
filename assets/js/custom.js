@@ -18,6 +18,16 @@ month={29 April-2 May},\n\
 year={2019},\n\
 }</pre>"
 
+var xu2020infocom_edgeSLAM = 
+"<pre>@INPROCEEDINGS{dong2019infocom_pairnavi,\n\
+author={Jingao Xu and Hao Cao and Danyang Li and Kehong Huang and Chen Qian and Longfei Shangguan and Zheng Yang},\n\
+booktitle={Proceedings of the IEEE INFOCOM},\n\
+title={Edge Assisted Mobile Semantic Visual SLAM},\n\
+pages={},\n\
+month={27-30 April},\n\
+year={2020},\n\
+}</pre>"
+
 var mass2018xu_viviplus = 
 "<pre>@inproceedings{mass2018xu_viviplus,\n\
 author = {Jingao Xu and Zheng Yang and Hengjie Chen and Yunhao Liu and Xianchun Zhou and Jinbo Li and Nicholas Lane},\n\
@@ -46,4 +56,5 @@ function initialize_bibtex(){
     $("#dong2019infocom_pairnavi").attr("data-content", dong2019infocom_pairnavi);
     $("#mass2018xu_viviplus").attr("data-content", mass2018xu_viviplus);
     $("#wu2017ubicomp_vivi").attr("data-content", wu2017ubicomp_vivi);
+    $("#xu2020infocom_edgeSLAM").attr("data-content", xu2020infocom_edgeSLAM);
 }
