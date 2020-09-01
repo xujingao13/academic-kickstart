@@ -19,7 +19,7 @@ year={2019},\n\
 }</pre>"
 
 var xu2020infocom_edgeSLAM = 
-"<pre>@INPROCEEDINGS{dong2019infocom_pairnavi,\n\
+"<pre>@INPROCEEDINGS{xu2020infocom_pairnavi,\n\
 author={Jingao Xu and Hao Cao and Danyang Li and Kehong Huang and Chen Qian and Longfei Shangguan and Zheng Yang},\n\
 booktitle={Proceedings of the IEEE INFOCOM},\n\
 title={Edge Assisted Mobile Semantic Visual SLAM},\n\
