@@ -19,12 +19,22 @@ year={2019},\n\
 }</pre>"
 
 var xu2020infocom_edgeSLAM = 
-"<pre>@INPROCEEDINGS{xu2020infocom_pairnavi,\n\
+"<pre>@INPROCEEDINGS{xu2020infocom_edgeSLAM,\n\
 author={Jingao Xu and Hao Cao and Danyang Li and Kehong Huang and Chen Qian and Longfei Shangguan and Zheng Yang},\n\
 booktitle={Proceedings of the IEEE INFOCOM},\n\
 title={Edge Assisted Mobile Semantic Visual SLAM},\n\
 pages={},\n\
 month={27-30 April},\n\
+year={2020},\n\
+}</pre>"
+
+var dong2020icccn_imac = 
+"<pre>@INPROCEEDINGS{dong2020icccn_imac,\n\
+author={Liang Dong and Jingao Xu and Guoxuan Chi and Danyang Li and Xinglin Zhang and Jianbo Li and Qiang Ma and Zheng Yang},\n\
+booktitle={Proceedings of the IEEE ICCCN},\n\
+title={Enabling Surveillance Cameras to Navigate},\n\
+pages={},\n\
+month={3-6 Auguest},\n\
 year={2020},\n\
 }</pre>"
 
@@ -57,4 +67,5 @@ function initialize_bibtex(){
     $("#mass2018xu_viviplus").attr("data-content", mass2018xu_viviplus);
     $("#wu2017ubicomp_vivi").attr("data-content", wu2017ubicomp_vivi);
     $("#xu2020infocom_edgeSLAM").attr("data-content", xu2020infocom_edgeSLAM);
+    $("#dong2020icccn_imac").attr("data-content", dong2020icccn_imac);
 }

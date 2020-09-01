@@ -63,6 +63,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<i class="fa fa-bell"></i> 2020/02 Our paper **iMAC** was accepted by IEEE ICCCN 2020.
+
 <i class="fa fa-bell"></i> 2019/12 Our paper **edgeSLAM** got accepted by IEEE INFOCOM 2020.
 
 <i class="fa fa-bell"></i> 2019/08 Our paper **iVR** got accepted by ACM IMWUT(Ubicomp) 2019.
