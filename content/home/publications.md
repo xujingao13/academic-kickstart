@@ -64,11 +64,11 @@ subtitle = ""
 +++
 
 ## Conference
-1. [<span class="booktitle">IEEE INFOCOM'20</span>] **Jingao Xu**, Hao Cao, Danyang Li, Kehong Huang, Chen Qian, Longfei Shangguan, Zheng Yang "<u>Edge Assisted Mobile Semantic Visual SLAM</u>", IEEE Conference on Computer Communications, Beijing, China (Virtual Online), 5-8 July, 2020.
+1. [<span class="booktitle">IEEE INFOCOM'20</span>] **Jingao Xu**, Hao Cao, Danyang Li, Kehong Huang, Chen Qian, Longfei Shangguan, Zheng Yang, "<u>Edge Assisted Mobile Semantic Visual SLAM</u>", IEEE Conference on Computer Communications, Beijing, China (Virtual Online), 5-8 July, 2020.
 <a class="btn btn-success btn-sm" href="papers/infocom20_edgeSLAM.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
 <a class="btn btn-info btn-sm" href="slides/edgeSLAM.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
 <button id="xu2020infocom_edgeSLAM" class="btn btn-sm btn-primary" data-toggle="popover" data-container="body" data-html="true" data-placement="bottom"><i class="fa fa-book"></i> Bibtex</button>
-1. [<span class="booktitle">IEEE ICCCN'20</span>] Liang Dong, **Jingao Xu**, Guoxuan Chi, Danyang Li, Xinglin Zhang, Jianbo Li, Qiang Ma, Zheng Yang"<u>Enabling Surveillance Cameras to Navigate</u>", International Conference on Computer Communications and Networks, Singapore (Virtual Online), 3-6 Auguest, 2020.
+1. [<span class="booktitle">IEEE ICCCN'20</span>] Liang Dong, **Jingao Xu**, Guoxuan Chi, Danyang Li, Xinglin Zhang, Jianbo Li, Qiang Ma, Zheng Yang, "<u>Enabling Surveillance Cameras to Navigate</u>", International Conference on Computer Communications and Networks, Singapore (Virtual Online), 3-6 Auguest, 2020.
 <a class="btn btn-success btn-sm" href="papers/icccn20_imac.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
 <button id="dong2020icccn_imac" class="btn btn-sm btn-primary" data-toggle="popover" data-container="body" data-html="true" data-placement="bottom"><i class="fa fa-book"></i> Bibtex</button>
 1. [<span class="booktitle">ACM UbiComp'19</span>] **Jingao Xu**, Hengjie Chen, Kun Qian, Erqun Dong, Min Sun, Chenshu Wu, Li Zhang, Zheng Yang, "<u>iVR: Integrated Vision and Radio Localization with Zero Human Effort</u>", PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, London, UK, Sep 11 - Sep 13, 2019.
