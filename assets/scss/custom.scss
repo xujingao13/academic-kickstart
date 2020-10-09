@@ -1,10 +1,10 @@
-.booktitle {
+.booktitle{ 
     /* color: #A4AA04; */
     color: #B60000;
     font-weight: bold;
 }
 .highlight, .highlight:hover {
-    color: #B60000;
+    color: #b60000;
     font-weight: bold;
     font-style: italic;
 }
@@ -30,4 +30,9 @@
 nav#navbar-main li.nav-item {
   font-size: 17px;
   font-weight: bold;
+}
+
+.publication-title {
+    color: #5c307d;
+    text-decoration: underline; 
 }
