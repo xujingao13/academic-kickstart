@@ -12,6 +12,9 @@ header:
   caption: ""
   image: ""
 ---
+<i class="fa fa-bell"></i> 2020/12 Our paper **iToLoc** was accepted by IEEE INFOCOM 2021. Two crucial goals of wireless fingerprint-based localization, spatial-temporal robustness and database automatically update, have been achieved by leveraging adversarial learning and semi-supervised learning respectively.
+
+<i class="fa fa-bell"></i> 2020/06 **GMNP**, follow-up of our previous work **Pair-Navi** got accepted by IEEE ICPADS 2020. Navigating coverage area has been extended by leveraging crowded-sourced intelligence.
 
 <i class="fa fa-bell"></i> 2020/02 Our paper **iMAC** was accepted by IEEE ICCCN 2020.
 

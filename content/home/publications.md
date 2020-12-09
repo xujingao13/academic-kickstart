@@ -62,8 +62,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+\* indicates co-primary author
 ## Conference
+1. [<span class="booktitle">IEEE INFOCOM'21</span>] Danyang Li*, **Jingao Xu\***, Zheng Yang, Yumeng Lu, Qian Zhang, Xinglin Zhang, "<a class="publication-title" target="blank" href="#">Train Once, Locate Anytime for Anyone: Adversarial Learning Based Wireless Localization</a>", IEEE Conference on Computer Communications, Virtual Online, 10-13 May, 2021.
+<a class="btn btn-success btn-sm" href="#top"><i class="fa fa-file-pdf-o"></i> PDF</a>
+<button id="li2021infocom_itoloc" class="btn btn-sm btn-primary" data-toggle="popover" data-container="body" data-html="true" data-placement="bottom"><i class="fa fa-book"></i> Bibtex</button>
+1. [<span class="booktitle">IEEE ICPADS'20</span>] Erqun Dong, Jianzhe Liang, Zeyu Wang, **Jingao Xu**, Longfei Shangguan, Qiang Ma, Zheng Yang, "<a class="publication-title" target="blank" href="#top">Improving the Applicability of Visual Peer-to-Peer Navigation with Crowdsourcing</a>", IEEE International Conference on Parallel and Distributed Systems, Hong Kong, China (Virtual Online), 2-4 December, 2020.
+<a class="btn btn-success btn-sm" href="papers/icpads20_GMNP.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
+<button id="dong2020icpads_gmnp" class="btn btn-sm btn-primary" data-toggle="popover" data-container="body" data-html="true" data-placement="bottom"><i class="fa fa-book"></i> Bibtex</button>
 1. [<span class="booktitle">IEEE INFOCOM'20</span>] **Jingao Xu**, Hao Cao, Danyang Li, Kehong Huang, Chen Qian, Longfei Shangguan, Zheng Yang, "<a class="publication-title" target="blank" href="https://ieeexplore.ieee.org/abstract/document/9155438">Edge Assisted Mobile Semantic Visual SLAM</a>", IEEE Conference on Computer Communications, Beijing, China (Virtual Online), 5-8 July, 2020.
 <a class="btn btn-success btn-sm" href="papers/infocom20_edgeSLAM.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
 <a class="btn btn-info btn-sm" href="slides/edgeSLAM.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
@@ -75,7 +81,7 @@ subtitle = ""
 <a class="btn btn-success btn-sm" href="papers/ubicomp19_ivr.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
 <a class="btn btn-info btn-sm" href="slides/iVR.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
 <button id="xu2019ubicomp_ivr" class="btn btn-sm btn-primary" data-toggle="popover" data-container="body" data-html="true" data-placement="bottom"><i class="fa fa-book"></i> Bibtex</button>
-1. [<span class="booktitle">IEEE INFOCOM'19</span>] Erqun Dong*, **Jingao Xu\***, Chenshu Wu, Yunhao Liu, Zheng Yang, "<a class="publication-title" target="blank" href="https://ieeexplore.ieee.org/abstract/document/8737640">Pair-Navi: Peer-to-Peer Indoor Navigation with Mobile Visual SLAM</a>", IEEE Conference on Computer Communications, Paris, France, 29 April-2 May, 2019. (*co-primary author, <span class="highlight">Best-in-Session Presentation Award, 1 out of 4</span>)
+1. [<span class="booktitle">IEEE INFOCOM'19</span>] Erqun Dong*, **Jingao Xu\***, Chenshu Wu, Yunhao Liu, Zheng Yang, "<a class="publication-title" target="blank" href="https://ieeexplore.ieee.org/abstract/document/8737640">Pair-Navi: Peer-to-Peer Indoor Navigation with Mobile Visual SLAM</a>", IEEE Conference on Computer Communications, Paris, France, 29 April-2 May, 2019. (<span class="highlight">Best-in-Session Presentation Award, 1 out of 4</span>)
 <a class="btn btn-success btn-sm" href="papers/infocom19_pair.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
 <a class="btn btn-info btn-sm" href="slides/Pair-navi.pptx"><i class="fa fa-file-powerpoint-o"></i> Slide</a>
 <button id="dong2019infocom_pairnavi" class="btn btn-sm btn-primary" data-toggle="popover" data-html="true" data-placement="bottom"><i class="fa fa-book"></i> Bibtex</button>

@@ -28,6 +28,16 @@ month={27-30 April},\n\
 year={2020},\n\
 }</pre>"
 
+var li2021infocom_itoloc = 
+"<pre>@INPROCEEDINGS{li2021infocom_itoloc,\n\
+author={Danyang Li and Jingao Xu and Zheng Yang and Yumeng Lu and Qian Zhang and Xinglin Zhang},\n\
+booktitle={Proceedings of the IEEE INFOCOM},\n\
+title={Train Once, Locate Anytime for Anyone: Adversarial Learning Based Wireless Localization},\n\
+pages={},\n\
+month={May 10-13},\n\
+year={2021},\n\
+}</pre>"
+
 var dong2020icccn_imac = 
 "<pre>@INPROCEEDINGS{dong2020icccn_imac,\n\
 author={Liang Dong and Jingao Xu and Guoxuan Chi and Danyang Li and Xinglin Zhang and Jianbo Li and Qiang Ma and Zheng Yang},\n\
@@ -56,6 +66,16 @@ month={Sep 11-15},\n\
 year={2017},\n\
 }</pre>"
 
+var dong2020icpads_gmnp = 
+"<pre>@INPROCEEDINGS{dong2020icpads_gmnp,\n\
+author={Erqun Dong and Jianzhe Liang and Zeyu Wang and Jingao Xu and Longfei Shangguan and Qiang Ma and Zheng Yang},\n\
+booktitle={Proceedings of the IEEE ICPADS},\n\
+title={Improving the Applicability of Visual Peer-to-Peer Navigation with Crowdsourcing},\n\
+pages={},\n\
+month={Dec 2-4},\n\
+year={2020},\n\
+}</pre>"
+
 $(function(){
     $('[data-toggle="popover"]').popover()
     initialize_bibtex()
@@ -68,4 +88,6 @@ function initialize_bibtex(){
     $("#wu2017ubicomp_vivi").attr("data-content", wu2017ubicomp_vivi);
     $("#xu2020infocom_edgeSLAM").attr("data-content", xu2020infocom_edgeSLAM);
     $("#dong2020icccn_imac").attr("data-content", dong2020icccn_imac);
+    $("#dong2020icpads_gmnp").attr("data-content", dong2020icpads_gmnp);
+    $("#li2021infocom_itoloc").attr("data-content", li2021infocom_itoloc);
 }

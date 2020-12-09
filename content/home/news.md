@@ -63,6 +63,10 @@ subtitle = ""
  css_class = ""
 +++
 
+<i class="fa fa-bell"></i> 2020/12 Our paper **iToLoc** was accepted by IEEE INFOCOM 2021. 
+
+<i class="fa fa-bell"></i> 2020/06 **GMNP**, follow-up of our previous work **Pair-Navi** got accepted by IEEE ICPADS 2020. 
+
 <i class="fa fa-bell"></i> 2020/02 Our paper **iMAC** was accepted by IEEE ICCCN 2020.
 
 <i class="fa fa-bell"></i> 2019/12 Our paper **edgeSLAM** got accepted by IEEE INFOCOM 2020.
@@ -73,10 +77,7 @@ subtitle = ""
 
 <i class="fa fa-bell"></i> 2018/11 Our paper **Pair-Navi** was accepted by IEEE INFOCOM 2019.
 
-<i class="fa fa-bell"></i> 2018/08 Our paper **ViViPlus** was accepted by IEEE MASS 2019.
 
 <i class="fa fa-bell"></i> 2017/06 I got **Outstanding Graduate of Tsinghua University** and **Outstanding Graduate of Beijing** awards.
-
-<i class="fa fa-bell"></i> 2017/06 Our paper **ViVi** was accepted by ACM IMWUT(Ubicomp) 2017.
 
 <i class="fas fa-hand-point-right"></i><a href="./news">  More news...</a>
