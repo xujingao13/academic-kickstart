@@ -65,7 +65,7 @@ subtitle = ""
 \* indicates co-primary author
 ## Conference
 1. [<span class="booktitle">IEEE INFOCOM'21</span>] Danyang Li*, **Jingao Xu\***, Zheng Yang, Yumeng Lu, Qian Zhang, Xinglin Zhang, "<a class="publication-title" target="blank" href="#">Train Once, Locate Anytime for Anyone: Adversarial Learning Based Wireless Localization</a>", IEEE Conference on Computer Communications, Virtual Online, 10-13 May, 2021.
-<a class="btn btn-success btn-sm" href="#top"><i class="fa fa-file-pdf-o"></i> PDF</a>
+<a class="btn btn-success btn-sm" href="papers/infocom21_iToLoc.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
 <button id="li2021infocom_itoloc" class="btn btn-sm btn-primary" data-toggle="popover" data-container="body" data-html="true" data-placement="bottom"><i class="fa fa-book"></i> Bibtex</button>
 1. [<span class="booktitle">IEEE ICPADS'20</span>] Erqun Dong, Jianzhe Liang, Zeyu Wang, **Jingao Xu**, Longfei Shangguan, Qiang Ma, Zheng Yang, "<a class="publication-title" target="blank" href="#top">Improving the Applicability of Visual Peer-to-Peer Navigation with Crowdsourcing</a>", IEEE International Conference on Parallel and Distributed Systems, Hong Kong, China (Virtual Online), 2-4 December, 2020.
 <a class="btn btn-success btn-sm" href="papers/icpads20_GMNP.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
