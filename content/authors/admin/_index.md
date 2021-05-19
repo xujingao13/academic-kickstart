@@ -19,7 +19,7 @@ organizations:
 - name: School of Software, Tsinghua University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AIoT, mobile computing, indoor localization and visual SLAM.
 
 interests:
 - Indoor Localization

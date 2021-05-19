@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Wireless Localization"
+    tag = "Wireless Localization"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Multimodal Fusion"
+    tag = "Multimodal Fusion"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,10 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
-</head> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
-<i class="fa fa-weixin"></i> ddd
