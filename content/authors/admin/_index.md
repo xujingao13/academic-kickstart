@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Jingao Xu is currently a Ph.D. candidate at the School of Software, Tsinghua University, under supervision of Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) and [Yunhao Liu](http://www.cse.msu.edu/~liuyunha/) since 2017.
+Jingao Xu is currently a Ph.D. candidate at the School of Software, Tsinghua University, under supervision of Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) and Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) since 2017.
 Prior to that, he received his B.E. degree in Software Engineering in 2017 from the School of Software at Tsinghua University.
 
 <i class="fa fa-location-arrow"></i> **Location**: 11-238 East Main Building, Tsinghua University, Beijing, China

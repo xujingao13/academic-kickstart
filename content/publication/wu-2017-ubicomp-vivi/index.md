@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2021-05-18T08:51:59.065238Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*'
+publication: '*PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/Ubicomp)*'
 ---

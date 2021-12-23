@@ -9022,6 +9022,9 @@ div.mermaid {
   font-weight: bold;
   font-style: italic; }
 
+.newshighlight {
+  color: #B60000; }
+
 .inline {
   color: #FFFFFF; }
 

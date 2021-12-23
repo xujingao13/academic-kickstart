@@ -63,12 +63,15 @@ subtitle = ""
  css_class = ""
 +++
 
+<i class="fa fa-trophy"></i> National Scholarship, 2021, 2016.
+
 <i class="fa fa-trophy"></i> Outstanding Graduate of Tsinghua University, 2017.
 
 <i class="fa fa-trophy"></i> Outstanding Graduate of Beijing, 2017.
 
+<i class="fa fa-trophy"></i> Tsinghua Lin-Feng Counsellor Prize (清华大学林枫辅导员奖), 2021.
+
 <i class="fa fa-trophy"></i> Outstanding Graduate Thesis of Tsinghua University, 2017.
 
-<i class="fa fa-trophy"></i> Future Scholarship Award of Tsinghua University, 2017.
+<i class="fa fa-trophy"></i> Future Scholarship Award of Tsinghua University (清华大学未来学者), 2017.
 
-<i class="fa fa-trophy"></i> National Scholarship, 2016.

@@ -12,6 +12,15 @@ header:
   caption: ""
   image: ""
 ---
+
+<i class="fa fa-bell"></i> 2021/12 Our work **SwarmMap** on scaling-up collaborative visual SLAM at the edge was accepted by USENIX NSDI 2022.
+
+<i class="fa fa-bell"></i> 2021/06 Our work **iSAT** got accepted by IEEE TMC. Now, surveillance cameras can be upgraded to indoor satellites to provide navigation services.
+
+<i class="fa fa-bell"></i> 2021/05 Our paper **FollowUpAR** was accepted by ACM Mobisys 2021. 
+
+<i class="fa fa-bell"></i> 2021/03 Two extended version of our previous works, **Pair-Navi** and **iMAC**, got accepted by IEEE/ACM TOSN. 
+
 <i class="fa fa-bell"></i> 2020/12 Our paper **iToLoc** was accepted by IEEE INFOCOM 2021. Two crucial goals of wireless fingerprint-based localization, spatial-temporal robustness and database automatically update, have been achieved by leveraging adversarial learning and semi-supervised learning respectively.
 
 <i class="fa fa-bell"></i> 2020/06 **GMNP**, follow-up of our previous work **Pair-Navi** got accepted by IEEE ICPADS 2020. Navigating coverage area has been extended by leveraging crowded-sourced intelligence.
