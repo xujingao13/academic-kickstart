@@ -22,13 +22,14 @@ organizations:
 bio: My research interests include AIoT, mobile computing, indoor localization and visual SLAM.
 
 interests:
-- Indoor Localization
+- Wireless Localization
 - Mobile Computing
+- Visual SLAM
 - Internet of Things
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Software Engineering
     institution: School of Software, Tsinghua University
     year: 2022(expected)
   - course: B.E. in Software Engineering
@@ -60,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv-2021-12.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Jingao Xu is currently a Ph.D. candidate at the School of Software, Tsinghua University, under supervision of Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) and Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) since 2017.
-Prior to that, he received his B.E. degree in Software Engineering in 2017 from the School of Software at Tsinghua University.
+Jingao Xu is currently a Ph.D. candidate at School of Software, Tsinghua University, under supervision of Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) and Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) since 2017.
+Prior to that, he received his B.E. degree in Software Engineering in 2017 from School of Software at Tsinghua University.
 
 <i class="fa fa-location-arrow"></i> **Location**: 11-238 East Main Building, Tsinghua University, Beijing, China
 

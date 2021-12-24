@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal Fusion | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/multimodal-fusion/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/tags/multimodal-fusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal Fusion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 09:56:15 +0800</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Multimodal Fusion</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/multimodal-fusion/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Fusion</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/project/multimodal-fusion/</link>
+      <pubDate>Wed, 19 May 2021 09:56:15 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/project/multimodal-fusion/</guid>
+      <description>&lt;p&gt;Something about multi-modal integration.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

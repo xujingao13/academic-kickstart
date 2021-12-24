@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas D. Lane | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/nicholas-d.-lane/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/nicholas-d.-lane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas D. Lane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Nicholas D. Lane</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/nicholas-d.-lane/</link>
+    </image>
+    
+    <item>
+      <title>Gain Without Pain: Accurate WiFi-based Localization with Fingerprint Spatial Gradient</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/wu-2017-ubicomp-vivi/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/wu-2017-ubicomp-vivi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

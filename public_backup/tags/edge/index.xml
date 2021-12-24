@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/edge/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/tags/edge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Dec 2021 14:44:31 +0800</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Edge</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/edge/</link>
+    </image>
+    
+    <item>
+      <title>Real-time Services based on Edge Computing</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/project/edge/</link>
+      <pubDate>Thu, 23 Dec 2021 14:44:31 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/project/edge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

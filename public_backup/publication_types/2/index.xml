@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication_types/2/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>2</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Enabling Surveillance Cameras to Navigate</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dongtosn-imac/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dongtosn-imac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locate, Tell, and Guide: Enabling Public Cameras to Navigate the Public</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/chi-2020-tmc-isat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/chi-2020-tmc-isat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartphone-Based Indoor Visual Navigation with Leader-Follower Mode</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-smartphone/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-smartphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Localization with Spatial-Temporal Robust Fingerprints</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-wireless/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-wireless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iVR: Integrated Vision and Radio Localization with Zero Human Effort</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2019-ubicomp-ivr/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2019-ubicomp-ivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gain Without Pain: Accurate WiFi-based Localization with Fingerprint Spatial Gradient</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/wu-2017-ubicomp-vivi/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/wu-2017-ubicomp-vivi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

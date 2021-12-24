@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeyu Wang | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/zeyu-wang/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/zeyu-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zeyu Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Zeyu Wang</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/zeyu-wang/</link>
+    </image>
+    
+    <item>
+      <title>Improving the Applicability of Visual Peer-to-Peer Navigation with Crowdsourcing</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icpads-gmnp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icpads-gmnp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

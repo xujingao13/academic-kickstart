@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless Localization | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/wireless-localization/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/tags/wireless-localization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wireless Localization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 09:56:15 +0800</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Wireless Localization</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/wireless-localization/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Fusion</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/project/multimodal-fusion/</link>
+      <pubDate>Wed, 19 May 2021 09:56:15 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/project/multimodal-fusion/</guid>
+      <description>&lt;p&gt;Something about multi-modal integration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireless Localization</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/project/wireless-indoor-localization/</link>
+      <pubDate>Wed, 19 May 2021 09:42:46 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/project/wireless-indoor-localization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

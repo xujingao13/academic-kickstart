@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianbo Li | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/jianbo-li/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/jianbo-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianbo Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Jianbo Li</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/jianbo-li/</link>
+    </image>
+    
+    <item>
+      <title>Enabling Surveillance Cameras to Navigate</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dongtosn-imac/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dongtosn-imac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Localization with Spatial-Temporal Robust Fingerprints</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-wireless/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-wireless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Surveillance Cameras to Navigate</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icccn-imac/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icccn-imac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

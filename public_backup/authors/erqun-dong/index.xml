@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erqun Dong | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/erqun-dong/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/erqun-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erqun Dong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Dec 2021 14:44:39 +0800</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Erqun Dong</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/erqun-dong/</link>
+    </image>
+    
+    <item>
+      <title>Mobile Systems based on Visual SLAM</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/project/slam/</link>
+      <pubDate>Thu, 23 Dec 2021 14:44:39 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/project/slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Services based on Edge Computing</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/project/edge/</link>
+      <pubDate>Thu, 23 Dec 2021 14:44:31 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/project/edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartphone-Based Indoor Visual Navigation with Leader-Follower Mode</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-smartphone/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-smartphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Applicability of Visual Peer-to-Peer Navigation with Crowdsourcing</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icpads-gmnp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icpads-gmnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iVR: Integrated Vision and Radio Localization with Zero Human Effort</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2019-ubicomp-ivr/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2019-ubicomp-ivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pair-Navi: Peer-to-Peer Indoor Navigation with Mobile Visual SLAM</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2019-infocom-pairnavi/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2019-infocom-pairnavi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

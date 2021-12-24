@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Dec 2021 14:44:39 +0800</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Tags</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/</link>
+    </image>
+    
+    <item>
+      <title>SLAM</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/slam/</link>
+      <pubDate>Thu, 23 Dec 2021 14:44:39 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/tags/slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/edge/</link>
+      <pubDate>Thu, 23 Dec 2021 14:44:31 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/tags/edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localization</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/tags/localization/</link>
+      <pubDate>Thu, 23 Dec 2021 14:44:24 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/tags/localization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

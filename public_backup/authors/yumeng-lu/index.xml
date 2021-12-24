@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yumeng Lu | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/yumeng-lu/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/yumeng-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yumeng Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Yumeng Lu</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/yumeng-lu/</link>
+    </image>
+    
+    <item>
+      <title>Train Once, Locate Anytime for Anyone: Adversarial Learning Based Wireless Localization</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-infocom-itoloc/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-infocom-itoloc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

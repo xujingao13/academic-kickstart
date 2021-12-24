@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kun Qian | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/kun-qian/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/kun-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kun Qian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Kun Qian</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/kun-qian/</link>
+    </image>
+    
+    <item>
+      <title>iVR: Integrated Vision and Radio Localization with Zero Human Effort</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2019-ubicomp-ivr/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2019-ubicomp-ivr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

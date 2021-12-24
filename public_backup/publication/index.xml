@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Publications</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/</link>
+    </image>
+    
+    <item>
+      <title>FollowUpAR: Enabling Follow-up Effects in Mobile AR Applications</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-mobisys-followupar/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-mobisys-followupar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Train Once, Locate Anytime for Anyone: Adversarial Learning Based Wireless Localization</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-infocom-itoloc/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-infocom-itoloc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Surveillance Cameras to Navigate</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dongtosn-imac/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dongtosn-imac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locate, Tell, and Guide: Enabling Public Cameras to Navigate the Public</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/chi-2020-tmc-isat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/chi-2020-tmc-isat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartphone-Based Indoor Visual Navigation with Leader-Follower Mode</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-smartphone/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-smartphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Localization with Spatial-Temporal Robust Fingerprints</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-wireless/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/li-2021-wireless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Applicability of Visual Peer-to-Peer Navigation with Crowdsourcing</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icpads-gmnp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icpads-gmnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Surveillance Cameras to Navigate</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icccn-imac/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2020-icccn-imac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Assisted Mobile Semantic Visual SLAM</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2020-infocom-edge-slam/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2020-infocom-edge-slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iVR: Integrated Vision and Radio Localization with Zero Human Effort</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2019-ubicomp-ivr/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2019-ubicomp-ivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pair-Navi: Peer-to-Peer Indoor Navigation with Mobile Visual SLAM</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2019-infocom-pairnavi/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2019-infocom-pairnavi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embracing Spatial Awareness for Reliable WiFi-Based Indoor Location Systems</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/mass-2018-xu-viviplus/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/mass-2018-xu-viviplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gain Without Pain: Accurate WiFi-based Localization with Fingerprint Spatial Gradient</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/wu-2017-ubicomp-vivi/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/wu-2017-ubicomp-vivi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

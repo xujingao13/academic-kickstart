@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunhao Liu | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/yunhao-liu/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/yunhao-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunhao Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Yunhao Liu</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/yunhao-liu/</link>
+    </image>
+    
+    <item>
+      <title>Pair-Navi: Peer-to-Peer Indoor Navigation with Mobile Visual SLAM</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2019-infocom-pairnavi/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/dong-2019-infocom-pairnavi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embracing Spatial Awareness for Reliable WiFi-Based Indoor Location Systems</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/mass-2018-xu-viviplus/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/mass-2018-xu-viviplus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

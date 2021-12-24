@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Miao | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/xin-miao/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/xin-miao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Miao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Xin Miao</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/xin-miao/</link>
+    </image>
+    
+    <item>
+      <title>FollowUpAR: Enabling Follow-up Effects in Mobile AR Applications</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-mobisys-followupar/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2021-mobisys-followupar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

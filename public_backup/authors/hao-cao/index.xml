@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Cao | Jingao Xu&#39;s Homepage</title>
+    <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/hao-cao/</link>
+      <atom:link href="http://tns.thss.tsinghua.edu.cn/~jingao/authors/hao-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Cao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Dec 2021 14:44:39 +0800</lastBuildDate>
+    <image>
+      <url>http://tns.thss.tsinghua.edu.cn/~jingao/img/thu-logo.png</url>
+      <title>Hao Cao</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/authors/hao-cao/</link>
+    </image>
+    
+    <item>
+      <title>Mobile Systems based on Visual SLAM</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/project/slam/</link>
+      <pubDate>Thu, 23 Dec 2021 14:44:39 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/project/slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Services based on Edge Computing</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/project/edge/</link>
+      <pubDate>Thu, 23 Dec 2021 14:44:31 +0800</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/project/edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Assisted Mobile Semantic Visual SLAM</title>
+      <link>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2020-infocom-edge-slam/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://tns.thss.tsinghua.edu.cn/~jingao/publication/xu-2020-infocom-edge-slam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
